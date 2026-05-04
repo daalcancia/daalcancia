@@ -12,4 +12,4 @@ When I'm not programming, I spend my time troubleshooting hardware, soldering, a
 
 ### Contact Me
 * **Email:** dralcancia@gmail.com
-* **LinkedIn:** [linkedin.com/in/yourprofile]([link-to-linkedin](https://www.linkedin.com/in/dean-robin-alcancia-072302294/))
+* **LinkedIn:** [link-to-linkedin](https://www.linkedin.com/in/dean-robin-alcancia-072302294/)
