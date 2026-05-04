@@ -26,4 +26,4 @@ In my free time, I like to spend it by troubleshooting hardware and building cus
 
 ### Contact Me
 * **Email:** dralcancia@gmail.com
-* **LinkedIn:** ![LinkedIn]([https://www.linkedin.com/in/dean-robin-alcancia-072302294/](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dean-robin-alcancia-072302294/))
+* **LinkedIn:** ![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dean-robin-alcancia-072302294/)
