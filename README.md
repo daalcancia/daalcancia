@@ -5,14 +5,18 @@ I am a Computer Science student at the University of the Philippines Diliman, pa
 ### Tech Stack
 
 **Languages**  
+<br>
 C, Python, Dart, Haskell, JavaScript, HTML, CSS
+<br>
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=c,python,dart,haskell,js,html,css" />
 </a>
 
 
 **Frameworks & Tools**  
+<br>
 Django, Vue, Flutter, PostgreSQL
+<br>
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=django,vue,flutter,postgres" />
 </a>
