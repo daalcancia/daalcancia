@@ -1,6 +1,6 @@
 # Hi there, I'm Robin 👋
 
-I am a Computer Science student at the University of the Philippines Diliman, passionate about software architecture, backend infrastructure, and hardware-level programming. I enjoy bridging the gap between low-level system design and full-stack web deployments.
+I am a Computer Science student at the University of the Philippines Diliman, passionate about software architecture, backend infrastructure, and hardware-level programming. I enjoy all things low-level system design and full-stack web deployments.
 
 ### Tech Stack
 
@@ -22,14 +22,7 @@ I am a Computer Science student at the University of the Philippines Diliman, pa
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ### Beyond the Code
-When I'm not programming, I spend my time troubleshooting hardware, soldering, and building custom PCs. 
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=daalcancia&show_icons=true&theme=radical" alt="Robin's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daalcancia&layout=compact&theme=radical" alt="Top Languages" />
-</div>
+In my free time, I like to spend it by troubleshooting hardware and building custom PCs. 
 
 ### Contact Me
 * **Email:** dralcancia@gmail.com
