@@ -21,9 +21,13 @@ I am a Computer Science student at the University of the Philippines Diliman, pa
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=c,python,dart,haskell,js,html,css,django,vue,flutter,postgres,git" />
+</a>
+
 ### Beyond the Code
 In my free time, I like to spend it by troubleshooting hardware and building custom PCs. 
 
 ### Contact Me
 * **Email:** dralcancia@gmail.com
-* **LinkedIn:** ![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dean-robin-alcancia-072302294/)
+* **LinkedIn:** https://www.linkedin.com/in/dean-robin-alcancia-072302294
