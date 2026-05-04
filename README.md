@@ -24,6 +24,13 @@ I am a Computer Science student at the University of the Philippines Diliman, pa
 ### Beyond the Code
 When I'm not programming, I spend my time troubleshooting hardware, soldering, and building custom PCs. 
 
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=daalcancia&show_icons=true&theme=radical" alt="Robin's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daalcancia&layout=compact&theme=radical" alt="Top Languages" />
+</div>
+
 ### Contact Me
 * **Email:** dralcancia@gmail.com
-* **LinkedIn:** [link-to-linkedin](https://www.linkedin.com/in/dean-robin-alcancia-072302294/)
+* **LinkedIn:** ![LinkedIn]([https://www.linkedin.com/in/dean-robin-alcancia-072302294/](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dean-robin-alcancia-072302294/))
