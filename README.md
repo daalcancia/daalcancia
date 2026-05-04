@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there, I'm Robin 👋
 
-<!--
-**daalcancia/daalcancia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Computer Science student at the University of the Philippines Diliman, passionate about software architecture, backend infrastructure, and hardware-level programming. I enjoy bridging the gap between low-level system design and full-stack web deployments.
 
-Here are some ideas to get you started:
+### Tech Stack & Tools
+* **Languages:** Python, C, Dart, Haskell, JavaScript, HTML/CSS
+* **Frameworks:** Django, Vue.js, Svelte, Flutter
+* **Databases & Tools:** PostgreSQL, Git, Logisim Evolution
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Beyond the Code
+When I'm not programming, I spend my time troubleshooting hardware, soldering, and building custom PCs. 
+
+### Contact Me
+* **Email:** dralcancia@gmail.com
+* **LinkedIn:** [https://www.linkedin.com/in/dean-robin-alcancia-072302294/](link-to-linkedin)
