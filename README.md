@@ -21,8 +21,8 @@ Django, Vue, Flutter, PostgreSQL
   <img src="https://skillicons.dev/icons?i=django,vue,flutter,postgres" />
 </a>
 
-### Beyond the Code
-In my free time, I like to spend it by troubleshooting hardware and building custom PCs. 
+### Interests
+I like to spend my free time by troubleshooting hardware like taking apart gadgets and building custom PCs. 
 
 ### Contact Me
 * **Email:** dralcancia@gmail.com
